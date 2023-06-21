@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 sdl2 = "0.35.2"
 crossbeam-channel = "0.5.8"
+screenshots = "0.6.0"
